@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APLIKASI BAJU</string>
+    <string name="pakaian_pria">Pakaian Pria</string>
+    <string name="pakaian_wanita">Pakaian Wanita</string>
+    <string name="stock">Sesuai orderan pelanggan</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Maryatul Kippiyah</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp.12000</string>
+    <string name="dummy_photos">3 photos</string>
+
+    <string name="content_text"> Pakaian adalah bahan tekstil dan serat yang digunakan sebagai penutup tubuh.
+        Pakaian adalah kebutuhan pokok manusia selain makanan dan tempat berteduh/tempat tinggal (rumah).
+        Manusia membutuhkan pakaian untuk melindungi dan menutup dirinya. </string>
+
+</resources>
